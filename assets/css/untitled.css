@@ -1,0 +1,91 @@
+.bg-primary {
+  background-color: #3179cd!important;
+}
+
+hr.star-light:after {
+  color: #fff;
+  background-color: #3179cd;
+}
+
+.btn-primary {
+  background-color: #3179cd;
+  border-color: #3179cd;
+}
+
+.btn-primary:hover {
+  background-color: #3179cd;
+  border-color: #3179cd;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+  transition: all .5s ease;
+  opacity: 0;
+  background-color: #3179cd;
+}
+
+a:active, a:focus, a:hover {
+  color: #3179cd!important;
+  background-color: white;
+}
+
+a:active, a:focus, a:hover {
+  color: #3179cd!important;
+  background-color: white!important;
+}
+
+
+#mainNav .navbar-nav>li.nav-item>a.nav-link.active {
+  background-color: white;
+}
+
+a:hover {
+  color: #3179cd;
+  text-decoration: underline;
+  background-color: white;
+}
+
+
+a {
+  color: #3179cd!important;
+}
+-
+
+-xt-decoration: underline;
+}
+
+-
+
+#buttonretour {
+  margin-top: 20px;
+}
+
+a {
+  color: #3179cd!important;
+}
+
+#buttonmail {
+}
+
+.col-lg-8.mx-auto {
+  text-align: center;
+}
+
+#buttoncv {
+  background-color: white;
+}
+
+#navbaar {
+  text-decoration: white!important;
+
+}@
+
+-
+
+#mainNav .navbar-nav li.nav-item a.nav-link:hover {
+  color: #3179cd!important;
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link:hover {
+  color: #3179cd!important;
+}
+
